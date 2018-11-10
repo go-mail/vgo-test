@@ -1,1 +1,1 @@
-module github.com/go-mail/mail/v2
+module github.com/go-mail/vgo-test/v2
